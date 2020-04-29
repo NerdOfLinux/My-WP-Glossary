@@ -1,0 +1,6 @@
+# Emacs auto-save files
+*~
+# May contain personal information
+.env
+# No need to be in the git repo
+devenv
