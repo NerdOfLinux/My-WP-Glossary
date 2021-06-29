@@ -1,3 +1,6 @@
+# Warning: this is no longer maintained
+This plugin was created because I needed a glossary plugin for WordPress, and all of the ones at the time were either too confusing or too expensive. Since then, I've moved on to writing on other platforms, and as such, no longer have the time to maintain this plugin. 
+
 # My WP Glossary
 ## A maintained and completely free WordPress glossary plugin.
 
